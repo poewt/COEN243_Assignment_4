@@ -1,0 +1,3 @@
+/Users/poewt/CLionProjects/COEN243_Ass_4/Question 2/cmake-build-debug/CMakeFiles/Question_2.dir
+/Users/poewt/CLionProjects/COEN243_Ass_4/Question 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/poewt/CLionProjects/COEN243_Ass_4/Question 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
